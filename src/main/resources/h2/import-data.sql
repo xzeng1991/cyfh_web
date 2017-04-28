@@ -1,0 +1,2 @@
+INSERT INTO t_user (user_id, user_name, password, user_type, locked, credit, create_time, create_user, modify_time, modify_user)
+   VALUES (1, 'xzeng', 'pass123', 2, 0, 0,CURRENT_TIMESTAMP,'xzeng',CURRENT_TIMESTAMP,'xzeng');
